@@ -66,9 +66,9 @@ The goal was to build a **Linear Regression model** that predicts house prices b
 ## 🚀 How to Run This Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/house-price-prediction.git
+   git clone https://github.com/<your-username>/SCT_ML_1.git
 2. Navigate to the folder:
-   cd house-price-prediction
+   cd Downloads
 3. Install dependencies:
    pip install pandas numpy scikit-learn matplotlib seaborn
 4. Open the Jupyter Notebook:
