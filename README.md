@@ -68,12 +68,13 @@ The goal was to build a **Linear Regression model** that predicts house prices b
    ```bash
    git clone https://github.com/<your-username>/SCT_ML_1.git
 2. Navigate to the folder:
-   cd Downloads
+   cd SCT_ML_1
 3. Install dependencies:
    pip install pandas numpy scikit-learn matplotlib seaborn
 4. Open the Jupyter Notebook:
    jupyter notebook
-5. Run all cells to see results
+5. Run the Python Script
+   python ML Task 1.py
 
    🙌 Acknowledgements
 Kaggle for the dataset.
